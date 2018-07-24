@@ -1,5 +1,5 @@
 {
-  "name": "vue-setter",
+  "name": "@fluxy/vue-setter",
   "version": "1.0.0",
   "description": "Plugin for data binding via getter and setter",
   "author": "Yusuf Satar <fx@fluxy.net>",
